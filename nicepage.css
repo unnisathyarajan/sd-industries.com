@@ -31535,42 +31535,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 20px 0 0 auto;
+  margin: 20px 0 20px auto;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
 
-.u-header .u-image-1 {
-  margin: -32px auto 20px 0;
-}
 
-.u-header .u-logo-image-1 {
-  max-width: 64px;
-  max-height: 64px;
-}
-@media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 31px;
-    height: 32px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-image-1 {
-    width: 24px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-image-1 {
-    width: 23px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-image-1 {
-    width: 19px;
-  }
-}
+
+
 .u-footer .u-sheet-1 {
   min-height: 133px;
 }
